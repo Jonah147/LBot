@@ -1,0 +1,19 @@
+{
+  "name": "lbot",
+  "version": "1.0.0",
+  "description": "telegram bot to manage a channel",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonah147/LBot.git"
+  },
+  "author": "Jonah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jonah147/LBot/issues"
+  },
+  "homepage": "https://github.com/Jonah147/LBot#readme"
+}
